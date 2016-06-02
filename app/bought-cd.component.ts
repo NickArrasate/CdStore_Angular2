@@ -11,6 +11,4 @@ import {CD} from "./cd.model";
 
 export class BoughtCDComponent {
   public boughtCD: CD;
-
-
 }
