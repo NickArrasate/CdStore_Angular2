@@ -12,6 +12,7 @@ import { CDListComponent} from './cd-list-display.component';
   <h1>BUY MUSIC</h1>
   <cd-list-display [cdList]="cds">
   </cd-list-display>
+  <shopping-cart></shopping-cart>
   `
 
 
